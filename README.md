@@ -35,7 +35,7 @@
 	</ul>
 </ul>
 <h3>原型图：https://modao.cc/app/IF3fbNJsHrVcSuz84SJfiskUveyQpYk
-<h3>期望运行效果：
+<h3>运行效果：
 
 
 <img src="https://github.com/zhangqiang216/SnowCrash/blob/master/snowcrash/%E6%95%88%E6%9E%9C%E5%9B%BE/sc1.png"/>
