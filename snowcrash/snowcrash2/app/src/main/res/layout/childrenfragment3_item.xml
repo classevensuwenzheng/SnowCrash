@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="220dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_margin="4dp"
+    app:cardCornerRadius="4dp"
+    app:cardElevation="3dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <ImageView
+        android:scaleType="centerCrop"
+        android:id="@+id/img"
+        android:layout_width="match_parent"
+        android:layout_height="160dp"/>
+    <ImageView
+        android:id="@+id/love"
+        android:layout_alignBottom="@id/img"
+        android:scaleType="fitXY"
+        android:layout_marginLeft="10dp"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:src="@drawable/love"/>
+    <TextView
+        android:textColor="@android:color/white"
+        android:id="@+id/sum1"
+        android:layout_toRightOf="@id/love"
+        android:layout_alignTop="@id/love"
+        android:layout_marginLeft="5dp"
+        android:text="50"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <ImageView
+        android:id="@+id/say"
+        android:layout_marginLeft="70dp"
+        android:layout_alignBottom="@id/img"
+        android:scaleType="fitXY"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:src="@drawable/say"/>
+    <TextView
+        android:textColor="@android:color/white"
+        android:id="@+id/sum2"
+        android:layout_toRightOf="@id/say"
+        android:layout_alignTop="@id/say"
+        android:layout_marginLeft="5dp"
+        android:text="10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:textSize="17sp"
+        android:textColor="@android:color/background_dark"
+        android:layout_below="@id/img"
+        android:id="@+id/title"
+        android:gravity="left|center"
+        android:maxLines="1"
+        android:maxEms="11"
+        android:ellipsize="end"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+    <TextView
+        android:textColor="@android:color/holo_green_dark"
+        android:id="@+id/info"
+        android:gravity="left|center"
+        android:layout_below="@id/title"
+        android:textSize="11sp"
+        android:maxLines="1"
+        android:maxEms="11"
+        android:ellipsize="end"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+    <TextView
+
+        android:textSize="10sp"
+        android:textColor="@android:color/darker_gray"
+        android:layout_alignTop="@id/img"
+        android:id="@+id/date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

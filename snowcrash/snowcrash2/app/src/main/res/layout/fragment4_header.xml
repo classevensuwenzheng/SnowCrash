@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="3dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout
+    android:orientation="vertical"
+    android:id="@+id/header"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30sp"
+        android:textSize="15sp"
+        android:textColor="@android:color/holo_red_light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="卧槽嫩么牛逼呢？" />
+    <TextView
+        android:text="吉考斯工业“月背竞技/F.A.S.C.”系列开启"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:layout_marginLeft="30sp"
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textColor="@android:color/darker_gray"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="30sp"
+        android:text="2018 season3 正式发布"
+        android:textSize="14sp"
+        />
+
+    <ImageView
+        android:scaleType="centerCrop"
+
+        android:id="@+id/img"
+        android:layout_margin="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="220dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textColor="@android:color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="30sp"
+            android:text="商品"
+            android:textSize="22sp"
+            />
+        <TextView
+            android:textColor="@android:color/holo_red_light"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="200dp"
+            android:text="全部"
+            android:textSize="22sp"
+            />
+    </LinearLayout>
+
+</LinearLayout>
+</android.support.v7.widget.CardView>
