@@ -35,17 +35,16 @@
 	</ul>
 </ul>
 <h3>原型图：https://modao.cc/app/IF3fbNJsHrVcSuz84SJfiskUveyQpYk
-<h3>运行效果：
+<h3>运行效果：<br/>
 
-
-<img src="https://github.com/zhangqiang216/SnowCrash/blob/master/snowcrash/%E6%95%88%E6%9E%9C%E5%9B%BE/sc1.png"/>
-<img src="https://github.com/zhangqiang216/SnowCrash/blob/master/snowcrash/%E6%95%88%E6%9E%9C%E5%9B%BE/sc2.png"/>
-<img src="https://github.com/zhangqiang216/SnowCrash/blob/master/snowcrash/%E6%95%88%E6%9E%9C%E5%9B%BE/sc3.png"/>
-<img src="https://github.com/zhangqiang216/SnowCrash/blob/master/snowcrash/%E6%95%88%E6%9E%9C%E5%9B%BE/sc4.png"/>
-<img src="https://github.com/zhangqiang216/SnowCrash/blob/master/snowcrash/%E6%95%88%E6%9E%9C%E5%9B%BE/sc5.png"/>
-<img src="https://github.com/zhangqiang216/SnowCrash/blob/master/snowcrash/%E6%95%88%E6%9E%9C%E5%9B%BE/sc6.png"/>
-<img src="https://github.com/zhangqiang216/SnowCrash/blob/master/snowcrash/%E6%95%88%E6%9E%9C%E5%9B%BE/sc7.png"/>
-<img src="https://github.com/zhangqiang216/SnowCrash/blob/master/snowcrash/%E6%95%88%E6%9E%9C%E5%9B%BE/sc8.png"/>
+<img src="https://github.com/zhangqiang216/SnowCrash/blob/master/snowcrash/%E6%95%88%E6%9E%9C%E5%9B%BE/sc1.png" height="200" width="150"/>
+<img src="https://github.com/zhangqiang216/SnowCrash/blob/master/snowcrash/%E6%95%88%E6%9E%9C%E5%9B%BE/sc2.png" height="200" width="150"/>
+<img src="https://github.com/zhangqiang216/SnowCrash/blob/master/snowcrash/%E6%95%88%E6%9E%9C%E5%9B%BE/sc3.png" height="200" width="150"/>
+<img src="https://github.com/zhangqiang216/SnowCrash/blob/master/snowcrash/%E6%95%88%E6%9E%9C%E5%9B%BE/sc4.png" height="200" width="150"/>
+<img src="https://github.com/zhangqiang216/SnowCrash/blob/master/snowcrash/%E6%95%88%E6%9E%9C%E5%9B%BE/sc5.png" height="200" width="150"/>
+<img src="https://github.com/zhangqiang216/SnowCrash/blob/master/snowcrash/%E6%95%88%E6%9E%9C%E5%9B%BE/sc6.png" height="200" width="150"/>
+<img src="https://github.com/zhangqiang216/SnowCrash/blob/master/snowcrash/%E6%95%88%E6%9E%9C%E5%9B%BE/sc7.png" height="200" width="150"/>
+<img src="https://github.com/zhangqiang216/SnowCrash/blob/master/snowcrash/%E6%95%88%E6%9E%9C%E5%9B%BE/sc8.png" height="200" width="150"/>
 
 
 
