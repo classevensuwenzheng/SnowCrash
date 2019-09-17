@@ -34,6 +34,12 @@
 	<li>Github:https://github.com/xiongQ233</li>
 	</ul>
 </ul>
+<li>苏文政（客户端代码开发）
+	<ul>
+		<li>Emali:1649886434@qq.com</li>
+		<li>https://github.com/classevensuwenzheng</li>
+	</ul>
+</li>
 <h3>原型图：https://modao.cc/app/IF3fbNJsHrVcSuz84SJfiskUveyQpYk
 <h3>运行效果：<br/>
 
