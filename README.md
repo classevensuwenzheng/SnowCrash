@@ -28,6 +28,11 @@
 	<li>Email:12345678@qq.com</li>
 	<li>Github:https://github.com/lihaix23</li>
 	</ul>
+<li>苏文政(客户端代码开发)
+	<ul>
+	<li>Email:1649886434@qq.com</li>
+	<li>Github:https://github.com/classevensuwenzheng</li>
+	</ul>	
 <li>王禹婕(客户端代码开发)
 	<ul>
 	<li>Email:12345678@qq.com</li>
